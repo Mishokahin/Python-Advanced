@@ -1,2 +1,2 @@
-#SoftUni Python Advanced course homework and exam preparation
+SoftUni Python Advanced course homework and exam preparation
  
